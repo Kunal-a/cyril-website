@@ -1,0 +1,16 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g style="vector-effect: non-scaling-stroke;" stroke="null" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path stroke="#FF0000" d="m157,152.453125c0,1 0.770981,4.03656 2,11c3.374771,19.120956 13.521866,49.201538 31,90c22.390549,52.26532 34,71 40,78l1,1" id="svg_1" stroke-width="0.001" fill="none"/>
+  <path stroke="#FF0000" d="m272,192.453125c-272,-192.453125 -272,-192.453125 -272,-192.453125l273,192.453125l1,0l0,1" id="svg_2" stroke-width="0.001" fill="none"/>
+  <path opacity="0.85" stroke="#FF0000" id="svg_3" d="m255.002396,10.133262c-136.692069,0 -247.500004,112.822625 -247.500004,252.000006c0,139.17738 110.807935,252.000006 247.500004,252.000006c136.692069,0 247.500004,-112.822625 247.500004,-252.000006c0,-139.17738 -110.807935,-252.000006 -247.500004,-252.000006zm142.805493,234.106514c-24.709131,28.938214 -63.109606,38.509152 -96.810068,27.499106l-122.404708,143.321319c-13.044241,15.258016 -35.743946,16.818495 -50.729497,3.554424s-16.569252,-36.393836 -3.542039,-51.651852l122.574999,-143.477367c-15.206929,-32.336591 -11.188076,-72.198158 13.401851,-100.980324c23.278692,-27.308381 58.80126,-37.295446 91.071283,-29.024908l-46.897964,55.691759l15.343161,45.444614l46.353035,9.172148l47.017167,-55.830468c12.737719,31.452319 8.054734,68.869136 -15.377219,96.281549z" stroke-width="0.001" fill="#7f007f"/>
+ </g>
+</svg>
