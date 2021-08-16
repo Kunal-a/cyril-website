@@ -401,6 +401,19 @@ a {
     color: black;
 } 
 @media only screen and (max-width: 600px){
+  .banner {   
+
+    margin: auto;
+    padding: auto;
+    margin: 0 auto;
+    width: 100vw;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.20)), url(/img/back2.jfif);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+            }
+
   .card{
  
  
@@ -743,7 +756,7 @@ footer{
     
     .headline {
         text-shadow: black 4px 3px;
-        min-height: 100vh;
+        min-height: 90vh;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -751,10 +764,14 @@ footer{
         padding: auto;
         margin: 0 auto;
         align-self: center;
-        font-family: 'Oswald', sans-serif;
+        /* font-family: 'Montserrat', sans-serif; */
+        
+
+         font-family: 'Oswald', sans-serif; 
         color: white;
         list-style: none;
         font-size: 50px;
+        font-weight: bolder;
         width: 80%;
         line-height: 80px;
         text-align: center;
@@ -802,7 +819,7 @@ footer{
      min-height: 70vh;
      padding: 0px ;
       display: flex; 
-      width: 395px;
+      width: 340px;
      height: 124vh; 
        justify-content: center; 
       align-items: center ; 
