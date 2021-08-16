@@ -401,7 +401,6 @@ a {
     color: black;
 } 
 @media only screen and (max-width: 600px){
-
   .card{
  
  
@@ -425,7 +424,7 @@ a {
    
   
 .card-image{
-    background-image: url(/img/web2.jpg)  ;
+    background-image: url(img/webnew.jpg)  ;
    justify-content: left;
    width: 88vw;
    height : 40vh;
@@ -800,7 +799,7 @@ footer{
      margin: 0 auto;
      width: 60vw;
      min-height: 70vh;
-     padding: 50px 100px; 
+     padding: 0px ;
       display: flex; 
       width: 64.9vw;
      height: 124vh; 
