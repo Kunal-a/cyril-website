@@ -424,7 +424,7 @@ a {
    
   
 .card-image{
-    background-image: url(img/webnew.jpg)  ;
+    background-image: url(/img/service.jpg)  ;
    justify-content: left;
    width: 88vw;
    height : 40vh;
@@ -482,6 +482,7 @@ a {
     background-color: white;
     color: black;
     font-size: 20px;
+    padding: 5px;
     
 }
 .about{
@@ -801,7 +802,7 @@ footer{
      min-height: 70vh;
      padding: 0px ;
       display: flex; 
-      width: 64.9vw;
+      width: 395px;
      height: 124vh; 
        justify-content: center; 
       align-items: center ; 
